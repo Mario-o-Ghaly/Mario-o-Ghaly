@@ -3,7 +3,8 @@
 <h3 align="left">I am a computer engineering senior who is passionate about different fields, including but are not limited to, quantum computing, digital design, computer architecture, operating systems, and machine learning</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mario-o-ghaly&label=Profile%20views&color=0e75b6&style=flat" alt="mario-o-ghaly" width="150" />
+  <img src="https://komarev.com/ghpvc/?username=mario-o-ghaly&label=Profile%20views&color=0e75b6&style=flat" alt="mario-o-ghaly" width="200" />
+  <p></p>
 </div>
 
 
