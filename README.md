@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Mario Ghaly</h1>
-<h3 align="center">I am a computer engineering senior who is passionate about different fields, including but are not limited to, quantum computing, digital design, computer architecture, operating systems, and machine learning</h3>
+<h3 align="left">I am a computer engineering senior who is passionate about different fields, including but are not limited to, quantum computing, digital design, computer architecture, operating systems, and machine learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mario-o-ghaly&label=Profile%20views&color=0e75b6&style=flat" alt="mario-o-ghaly" /> </p>
 
